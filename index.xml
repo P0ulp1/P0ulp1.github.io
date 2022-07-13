@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking My Life</title>
+    <link>https://P0ulp1.github.io/</link>
+    <description>Recent content on Hacking My Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://P0ulp1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://P0ulp1.github.io/about/</link>
+      <pubDate>Wed, 13 Jul 2022 11:08:08 -0400</pubDate>
+      
+      <guid>https://P0ulp1.github.io/about/</guid>
+      <description>Hello there ! My name is Paul Hautenauve, but I use the name @P0ulp1 online.
+First of all, why did I created this website ? Well this is like a lot of professionnal CyberSecurity aspirants, I&amp;rsquo;m gonna document everything I learn, as a way to memorize it better and maybe help other students !
+My goal is to get the OSCP, but they are other steps before that. As of today, I have basic knowledge in pentesting.</description>
+      <content>&lt;p&gt;Hello there ! My name is Paul Hautenauve, but I use the name @P0ulp1 online.&lt;/p&gt;
+&lt;p&gt;First of all, why did I created this website ? Well this is like a lot of professionnal CyberSecurity aspirants, I&amp;rsquo;m gonna document everything I learn, as a way to memorize it better and maybe help other students !&lt;/p&gt;
+&lt;p&gt;My goal is to &lt;strong&gt;get the OSCP&lt;/strong&gt;, but they are other steps before that.
+As of today, I have basic knowledge in pentesting. I trained a bit on &lt;strong&gt;Hack The Box&lt;/strong&gt;, &lt;strong&gt;Hack The Box Academy&lt;/strong&gt;, &lt;strong&gt;Try Hack Me&lt;/strong&gt;, &lt;strong&gt;Over The Wire&lt;/strong&gt;. Im also learning some &lt;strong&gt;Python&lt;/strong&gt; with &lt;strong&gt;Udemy 100 Days Of Code Course by Dr.Angela Yu&lt;/strong&gt; and I&amp;rsquo;m considering also taking the &lt;strong&gt;HTML&lt;/strong&gt; class by the same teacher but I don&amp;rsquo;t wanna get too overwhelmed. I already have &lt;strong&gt;basic knowledge of HTML/CSS and Python&lt;/strong&gt; though.&lt;/p&gt;
+&lt;p&gt;Have a look around, feel free to &lt;strong&gt;contact me&lt;/strong&gt; with the informations below :&lt;/p&gt;
+&lt;p&gt;Discord : P0ulp1#3304 (Recommended if you want a quick reply)&lt;br&gt;
+Email : &lt;a href=&#34;mailto:paul.hautenauve@yahoo.com&#34;&gt;paul.hautenauve@yahoo.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stay safe and focused,&lt;br&gt;
+P0ulp1,&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
