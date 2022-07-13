@@ -2,13 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://P0ulp1.github.io/tags/beginner/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/posts/complete-beginner-guide-to-cybersec-and-pentesting/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/tags/cybersec/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/tags/pentesting/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/posts/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/tags/ressources/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
+    <loc>https://P0ulp1.github.io/tags/</loc>
+    <lastmod>2022-07-13T11:43:36-04:00</lastmod>
+  </url><url>
     <loc>https://P0ulp1.github.io/about/</loc>
     <lastmod>2022-07-13T11:08:08-04:00</lastmod>
   </url><url>
     <loc>https://P0ulp1.github.io/categories/</loc>
-  </url><url>
-    <loc>https://P0ulp1.github.io/</loc>
-  </url><url>
-    <loc>https://P0ulp1.github.io/tags/</loc>
   </url>
 </urlset>
